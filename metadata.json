@@ -1,0 +1,6 @@
+{
+  "name": "AI 그림동화 공방",
+  "description": "5~7세 어린이를 위한 10장면 창작 동화책 제작 워크숍. 고품질 프롬프트 생성, 캐릭터 일관성 검증, 전자책 및 POD 출판 준비를 지원하는 교육용 웹앱입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
